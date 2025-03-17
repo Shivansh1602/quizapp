@@ -65,7 +65,7 @@ class _QuizState extends State<Quiz> {
         body: Container(
           decoration: const BoxDecoration(
               gradient: LinearGradient(colors: [
-            Color.fromARGB(255, 138, 16, 195),
+            Color.fromARGB(254, 138, 16, 195),
             Color.fromARGB(255, 147, 17, 176)
           ], begin: Alignment.topLeft, end: Alignment.bottomLeft)),
           child: screenWidget,  
