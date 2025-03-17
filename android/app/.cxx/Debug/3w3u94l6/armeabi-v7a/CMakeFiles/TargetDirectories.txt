@@ -1,0 +1,2 @@
+C:/Users/SHIVANSH/Desktop/restarting_flutter/quizapp/android/app/.cxx/Debug/3w3u94l6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/SHIVANSH/Desktop/restarting_flutter/quizapp/android/app/.cxx/Debug/3w3u94l6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/SHIVANSH/Desktop/restarting_flutter/quizapp/android/app/.cxx/Debug/3w3u94l6/x86/CMakeFiles/edit_cache.dir
+C:/Users/SHIVANSH/Desktop/restarting_flutter/quizapp/android/app/.cxx/Debug/3w3u94l6/x86/CMakeFiles/rebuild_cache.dir
